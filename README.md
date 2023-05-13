@@ -1,7 +1,5 @@
 # 💫 About Me:
-😎hola
-
-
+me gusta aprender
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tobiasarriola/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tobias-gonzalez-arriola-0a2399273/) 
 
@@ -12,8 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=crtobias&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crtobias&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=crtobias&limit=5&theme=dracula&combine_all_yearly_contributions=true)
