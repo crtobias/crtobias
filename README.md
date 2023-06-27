@@ -15,9 +15,6 @@ Linkedin https://www.linkedin.com/in/tobias-gonzalez-arriola-0a2399273/
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=crtobias&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=crtobias&icon=2&color=1)](https://visitcount.itsvg.in)
 
