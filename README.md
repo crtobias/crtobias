@@ -1,7 +1,6 @@
 # 💫 About Me:
 me gusta aprender todo lo nuevo sobre el mundo IT
 
-Portafolio https://portafolio-lovat-kappa.vercel.app 
 
 Gmail: tgonzalezarriola@gmail.com
 
