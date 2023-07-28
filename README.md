@@ -2,7 +2,7 @@
 Soy un desarrollador Full Stack apasionado del desarrollo Front-end y el diseño de interfaces, con experiencia en proyectos individuales y en equipo. Trabajo con tecnologías como HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL y Sequelize. Siempre estoy entusiasmado/a por aprender nuevas tecnologías y enriquecer mis habilidades. Me destaco por mi enfoque en la calidad y la colaboración en equipo, además de estar familiarizado/a con TypeScript y siempre estoy buscando crecer profesionalmente.
 
 # 🗨 Contactos:
-Gmail: tgonzalezarriola@gmail.com
+Gmail: tgonzalezarriola@gmail.com   <br>
 Linkedin https://www.linkedin.com/in/tobias-gonzalez-arriola-0a2399273/
 
 # 💻 Tech Stack:
