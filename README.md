@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobias</h1>
-<h3 align="center">Soy un desarrollador Full Stack apasionado del desarrollo Front-end y el diseño de interfaces, con experiencia en proyectos individuales y en equipo. Trabajo con tecnologías como HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL y Sequelize. Siempre estoy entusiasmado/a por aprender nuevas tecnologías y enriquecer mis habilidades. Me destaco por mi enfoque en la calidad y la colaboración en equipo, además de estar familiarizado/a con TypeScript y siempre estoy buscando crecer profesionalmente.</h3>
+<h3 align="center">I am a passionate Full Stack developer with a focus on Front-end development and interface design, with experience in both individual and team projects. I work with technologies such as HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL, and Sequelize. I am always excited to learn new technologies and enhance my skills. I stand out for my emphasis on quality and teamwork collaboration, and I am also familiar with TypeScript. I am constantly seeking professional growth opportunities.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
