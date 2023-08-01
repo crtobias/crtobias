@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tobias</h1>
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<!-- <img src="" align="center" style="width: 100%" /> -->
 </div>  
   
 
