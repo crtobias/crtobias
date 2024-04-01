@@ -7,7 +7,7 @@
 
 
 ###      
-### *<div align="center"> I am a passionate Full Stack developer with a focus on Front-end development and interface design, with experience in both individual and team projects. I work with technologies such as HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL, PostgreSQL, and Sequelize. I am always excited to learn new technologies and enhance my skills. I stand out for my emphasis on quality and teamwork collaboration, and I am also familiar with TypeScript. I am constantly seeking professional growth opportunities.</div>*  
+### *<div align="center"> I am a software developer and systems engineering student at UNLP. I am always interested in generating new solutions and projects while learning new technologies and teaching what I am learning along my path as a developer.</div>*  
   
 
   
