@@ -83,4 +83,7 @@
 
 
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u7muei3ras2vzv6b0gc22eeiq)
- <div><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+ <div>
+   <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center"/>
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u7muei3ras2vzv6b0gc22eeiq)
+ </div>  
