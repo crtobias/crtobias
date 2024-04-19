@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tobias</h1>
+<h1 align="center">Crtobias DEV 💻</h1>
 <div align="center">
 <!-- <img src="" align="center" style="width: 100%" /> -->
 </div>  
@@ -13,8 +13,10 @@
   
   
 
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u7muei3ras2vzv6b0gc22eeiq)
+<div align="center">
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u7muei3ras2vzv6b0gc22eeiq)
+</div>  
+ 
 
   
   
