@@ -1,14 +1,13 @@
 <h1 align="center">Crtobias DEV 💻</h1>
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
+
   
 ###      
 ### *<div align="center"> Soy un desarrollador de software y estudiante de sistemas en la UNLP. Siempre me interesa generar soluciones y proyectos nuevos mientras aprendo nuevas tecnologías y enseño lo que voy aprendiendo en mi camino como desarrollador.</div>*  
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u7muei3ras2vzv6b0gc22eeiq)
 
- 
 
+
+ ## Portafolio : https://minimalist-eight.vercel.app/
   
   
 
@@ -84,4 +83,6 @@
 
 <br/>  
 
-## Portafolio : https://minimalist-eight.vercel.app/
+
+
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u7muei3ras2vzv6b0gc22eeiq)
