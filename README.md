@@ -14,7 +14,7 @@
   
 
   
-  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u7muei3ras2vzv6b0gc22eeiq&count={count})
 
   
   
