@@ -59,11 +59,6 @@
 
 
 
- <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center"/>
-    
- </div>  
-
 
   ### *<div align="center">  ![crtobias's Stats](https://github-readme-stats.vercel.app/api?username=crtobias&theme=dark&show_icons=true&hide_border=false&count_private=false) </div>*  
   ### *<div align="center"> ![crtobias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtobias&theme=dark&show_icons=true&hide_border=false&layout=compact)  </div>*  
