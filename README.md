@@ -11,9 +11,10 @@
 
  ### *<div align="center"> Portafolio : https://minimalist-eight.vercel.app/ </div>*  
 
-![crtobias's Stats](https://github-readme-stats.vercel.app/api?username=crtobias&theme=dark&show_icons=true&hide_border=false&count_private=false)
-![crtobias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtobias&theme=dark&show_icons=true&hide_border=false&layout=compact)
-![crtobias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=crtobias&theme=dark&hide_border=false)
+ ### *<div align="center">  ![crtobias's Stats](https://github-readme-stats.vercel.app/api?username=crtobias&theme=dark&show_icons=true&hide_border=false&count_private=false) </div>*  
+  ### *<div align="center"> ![crtobias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtobias&theme=dark&show_icons=true&hide_border=false&layout=compact)  </div>*  
+   ### *<div align="center">  ![crtobias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=crtobias&theme=dark&hide_border=false) </div>*  
+
 
   
   
