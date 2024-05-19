@@ -11,13 +11,7 @@
 
  ### *<div align="center"> Portafolio : https://minimalist-eight.vercel.app/ </div>*  
 
- ### *<div align="center">  ![crtobias's Stats](https://github-readme-stats.vercel.app/api?username=crtobias&theme=dark&show_icons=true&hide_border=false&count_private=false) </div>*  
-  ### *<div align="center"> ![crtobias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtobias&theme=dark&show_icons=true&hide_border=false&layout=compact)  </div>*  
-   ### *<div align="center">  ![crtobias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=crtobias&theme=dark&hide_border=false) </div>*  
 
-
-  
-  
 
 
 ## Skills
@@ -69,3 +63,12 @@
    <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center"/>
     
  </div>  
+
+
+  ### *<div align="center">  ![crtobias's Stats](https://github-readme-stats.vercel.app/api?username=crtobias&theme=dark&show_icons=true&hide_border=false&count_private=false) </div>*  
+  ### *<div align="center"> ![crtobias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtobias&theme=dark&show_icons=true&hide_border=false&layout=compact)  </div>*  
+   ### *<div align="center">  ![crtobias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=crtobias&theme=dark&hide_border=false) </div>*  
+
+
+  
+  
