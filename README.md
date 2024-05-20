@@ -16,7 +16,7 @@
 
 
 <div style="display: flex; flex-direction: column; min-width:30vw">
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/34/48/36/3448362645ee45bb499624196c788f30.gif" alt="Gif" height="200" /></a>  
+<a align="center" href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/34/48/36/3448362645ee45bb499624196c788f30.gif" alt="Gif" height="200" /></a>  
 
  ### *<div align="center">  ![crtobias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtobias&theme=dark&show_icons=true&hide_border=false&layout=compact)  </div>*  
 </div>
