@@ -33,5 +33,5 @@
 
 
 
- ### *<div align="center" style="max-width: 100vw; font-size: 1.5rem; font-style: italic; font-weight: bold; text-aling:center;" > Portafolio : https://minimalist-eight.vercel.app/ </div>*  
+ ### *<div align="center" style="max-width: 100vw; font-size: 1.5rem; font-style: italic; font-weight: bold; text-aling:center;" > Portafolio : https://tobias-gonzalez-arriola.vercel.app/ </div>*  
 
