@@ -25,7 +25,7 @@
 
 </div>
 
-
+Most of my interesting projects are private Sry.
 
 
 
