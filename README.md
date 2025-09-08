@@ -8,7 +8,7 @@
 **Frontend:** React, React Native, HTML/CSS, Redux, Tailwind  
 **Backend:** Node.js, Express, Next.js, Nest.js  
 **Database:** PostgreSQL, MongoDB, Mongoose, Prisma ORM, Sequelize  
-**Tools:** Firebase, Auth0, Figma, Git
+**Tools:** Firebase, Auth0, Figma, Git , Linux
 
 ## Stats
 
