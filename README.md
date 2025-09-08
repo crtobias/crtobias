@@ -14,9 +14,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtobias&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-## Portfolio
+## Contact
 
-[tobias-gonzalez-arriola.vercel.app](https://tobias-gonzalez-arriola.vercel.app/)
+📍 La Plata, Buenos Aires  
+🎓 UNLP - Systems Student | Self-taught Developer  
+📧 tgonzalezarriola@gmail.com  
+🌐 [tobias-gonzalez-arriola.vercel.app](https://tobias-gonzalez-arriola.vercel.app/)
 
 ---
 *Most of my interesting projects are private.*
