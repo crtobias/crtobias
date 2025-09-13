@@ -5,8 +5,8 @@
 ## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Java, Pascal, Assembly  
-**Frontend:** React, React Native, HTML/CSS, Redux, Tailwind , Next.js 
-**Backend:** Node.js, Express, Nest.js  
+**Frontend:** React, React Native, HTML/CSS, Redux, Tailwind , Next.js
+**Backend:** Node.js, Express, Nest.js
 **Database:** PostgreSQL, MongoDB, Mongoose, Prisma ORM, Sequelize  
 **Tools:** Firebase, Auth0, Figma, Git , Linux
 
