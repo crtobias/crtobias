@@ -1,9 +1,9 @@
 # Crtobias DEV
-
 > Software developer and systems student. Always creating new solutions and learning new technologies.
 
-## Tech Stack
+> Creator of [BrailLearn](https://braillearn.com/) - A Braille practice app, coming soon to Play Store
 
+## Tech Stack
 **Languages:** JavaScript, TypeScript, Java, Pascal, Assembly  
 **Web Frontend:** React, HTML/CSS, Redux, Tailwind, Next.js  
 **Mobile:** React Native  
@@ -12,11 +12,9 @@
 **Tools:** Firebase, Auth0, Figma, Git, Linux
 
 ## Stats
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crtobias&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Contact
-
 📍 La Plata, Buenos Aires  
 🎓 UNLP - Systems Student | Self-taught Developer  
 📧 tgonzalezarriola@gmail.com  
