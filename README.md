@@ -71,7 +71,7 @@
 
 📍 **Location:** La Plata, Buenos Aires, Argentina
 🎓 **Education:** UNLP - Systems Engineering Student | Self-taught Developer
-📧 **Email:** tgonzalezarriola@gmail.com
+📧 **Email:** crtobiasdev@gmail.com
 🌐 **Portfolio:** [tobias-gonzalez-arriola.vercel.app](https://tobias-gonzalez-arriola.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/crtobias)
