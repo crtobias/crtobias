@@ -74,7 +74,7 @@
 📧 **Email:** crtobiasdev@gmail.com
 🌐 **Portfolio:** [tobias-gonzalez-arriola.vercel.app](https://tobias-gonzalez-arriola.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/crtobias)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/crtobias](https://www.linkedin.com/in/tobias-gonzalez-arriola-0a2399273/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/crtobias)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://tobias-gonzalez-arriola.vercel.app/)
 
