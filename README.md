@@ -1,13 +1,14 @@
 <div align="center">
 
-# Tobias Gonzalez Arriola
+# Tobias González Arriola
 
 **Full-Stack Developer** &nbsp;·&nbsp; Mobile, Web & Backend
 
 <samp>React Native &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Go &nbsp;·&nbsp; PostgreSQL</samp>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tobias.dev-2F81F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://tobias.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://tobias-gonzalez-arriola.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/tobias-gonzalez-arriola-0a2399273/)
+[![CV](https://img.shields.io/badge/CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D1117)](https://drive.google.com/file/d/11zLfB64P5tKIPcp93zFyvChN3FVnyRlR/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:crtobiasdev@gmail.com)
 
 </div>
@@ -16,7 +17,8 @@
 
 3+ years building cross-platform apps end to end — from architecture to deployment.
 Currently working on a multi-tenant **CMS in production**, **AI-agent** systems and
-**real-time / WebRTC** apps. Open to freelance and remote work.
+**real-time / WebRTC** apps. Systems Engineering student at UNLP, based in La Plata,
+Argentina. Open to freelance and remote work.
 
 ---
 
@@ -25,25 +27,31 @@ Currently working on a multi-tenant **CMS in production**, **AI-agent** systems 
 <table>
 <tr>
 <td width="33%" valign="top">
-<img src="https://tobias.dev/projects/minecall-office.webp" width="100%" alt="MineCall"/>
+<a href="https://tobias-gonzalez-arriola.vercel.app/work/minecall">
+<img src="https://tobias-gonzalez-arriola.vercel.app/projects/minecall-office.webp" width="100%" alt="MineCall"/>
+</a>
 <br/><br/>
-<b>MineCall</b><br/>
+<b><a href="https://tobias-gonzalez-arriola.vercel.app/work/minecall">MineCall</a></b><br/>
 <sub>Self-hosted virtual office in the browser: voxel 3D worlds, live presence and proximity-based audio/video.</sub>
 <br/><br/>
 <sub><b>Go · React · Three.js · LiveKit · PostgreSQL</b></sub>
 </td>
 <td width="33%" valign="top">
-<img src="https://tobias.dev/projects/cms-portal-home.webp" width="100%" alt="CMS & News Portal"/>
+<a href="https://tobias-gonzalez-arriola.vercel.app/work/cms-portal">
+<img src="https://tobias-gonzalez-arriola.vercel.app/projects/cms-portal-home.webp" width="100%" alt="CMS & News Portal"/>
+</a>
 <br/><br/>
-<b>CMS & News Portal</b><br/>
+<b><a href="https://tobias-gonzalez-arriola.vercel.app/work/cms-portal">CMS & News Portal</a></b><br/>
 <sub>Custom multi-tenant headless CMS and news portal — in production with several newspapers. Drag-and-drop editor, heavy SEO focus.</sub>
 <br/><br/>
 <sub><b>Next.js · Node.js · PostgreSQL · AWS</b></sub>
 </td>
 <td width="33%" valign="top">
-<img src="https://tobias.dev/projects/multibot.webp" width="100%" alt="MultiBot"/>
+<a href="https://tobias-gonzalez-arriola.vercel.app/work/multibot">
+<img src="https://tobias-gonzalez-arriola.vercel.app/projects/multibot.webp" width="100%" alt="MultiBot"/>
+</a>
 <br/><br/>
-<b>MultiBot</b><br/>
+<b><a href="https://tobias-gonzalez-arriola.vercel.app/work/multibot">MultiBot</a></b><br/>
 <sub>AI assistant + CRM: chat with an agent that creates and queries your data via tool-use, across three providers.</sub>
 <br/><br/>
 <sub><b>Node.js · Claude / OpenAI / Gemini · React Native</b></sub>
@@ -53,11 +61,11 @@ Currently working on a multi-tenant **CMS in production**, **AI-agent** systems 
 
 **Also:**
 [**BrailLearn**](https://play.google.com/store/apps/details?id=com.tobiascr.braille) — learn Braille through games, live on Google Play ·
-**Catálogo Digital** — offline-first B2B catalog & POS, multi-tenant (web + Android) ·
-**Copado** — loyalty platform with tournaments and QR redemptions ·
-**Elementos** — construction-materials marketplace with delivery-route optimisation
+[**Catálogo Digital**](https://tobias-gonzalez-arriola.vercel.app/work/catalogo-digital) — offline-first B2B catalog & POS, multi-tenant (web + Android) ·
+[**Copado**](https://tobias-gonzalez-arriola.vercel.app/work/copado) — loyalty platform with tournaments and QR redemptions ·
+[**Elementos**](https://tobias-gonzalez-arriola.vercel.app/work/elementos) — construction-materials marketplace with delivery-route optimisation
 
-<sub>Full case studies at **[tobias.dev](https://tobias.dev)** — most of the code lives in private and client repositories.</sub>
+<sub>Full case studies at **[my portfolio](https://tobias-gonzalez-arriola.vercel.app/)** — most of the code lives in private and client repositories.</sub>
 
 ---
 
