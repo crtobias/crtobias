@@ -17,8 +17,7 @@
 
 3+ years building cross-platform apps end to end — from architecture to deployment.
 Currently working on a multi-tenant **CMS in production**, **AI-agent** systems and
-**real-time / WebRTC** apps. Systems Engineering student at UNLP, based in La Plata,
-Argentina. Open to freelance and remote work.
+**real-time / WebRTC** apps. Open to freelance and remote work.
 
 ---
 
