@@ -27,7 +27,7 @@ Currently working on a multi-tenant **CMS in production**, **AI-agent** systems 
 <tr>
 <td width="33%" valign="top">
 <a href="https://tobias-gonzalez-arriola.vercel.app/work/minecall">
-<img src="https://tobias-gonzalez-arriola.vercel.app/projects/minecall-office.webp" width="100%" alt="MineCall"/>
+<img src="https://tobias-gonzalez-arriola.vercel.app/projects/minecall-forest.webp" width="100%" alt="MineCall"/>
 </a>
 <br/><br/>
 <b><a href="https://tobias-gonzalez-arriola.vercel.app/work/minecall">MineCall</a></b><br/>
