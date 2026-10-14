@@ -16,53 +16,104 @@
 <br/>
 
 3+ years building cross-platform apps end to end — from architecture to deployment.
-Currently working on a multi-tenant **CMS in production**, **AI-agent** systems and
-**real-time / WebRTC** apps. Open to freelance and remote work.
+Currently running a multi-tenant **CMS in production** for two newspapers, building a
+**no-code platform with AI agents** and **real-time / WebRTC** apps. Open to freelance and remote work.
 
 ---
 
 ## Selected Work
 
+### 📰 CMS & News Portals — in production
+
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="https://tobias-gonzalez-arriola.vercel.app/work/minecall">
+<td width="50%" valign="top">
+<a href="https://eleditorplatense.com">
+<img src="https://tobias-gonzalez-arriola.vercel.app/projects/cms-portal-platense.webp" width="100%" alt="El Editor Platense"/>
+</a>
+<p align="center"><sub><b><a href="https://eleditorplatense.com">El Editor Platense</a></b> · public portal</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://tobias-gonzalez-arriola.vercel.app/work/cms-portal">
+<img src="https://tobias-gonzalez-arriola.vercel.app/projects/cms-portal-editor.webp" width="100%" alt="CMS drag-and-drop editor"/>
+</a>
+<p align="center"><sub><b>Admin</b> · drag-and-drop layout editor</sub></p>
+</td>
+</tr>
+</table>
+
+Custom **multi-tenant headless CMS** that powers live newspapers — no third-party CMS.
+Editors write and version articles, build home pages with a drag-and-drop widget editor
+and follow real-time analytics. Heavy SEO work: dynamic sitemaps, JSON-LD, WebSub, ISR.
+
+[![El Editor Platense](https://img.shields.io/badge/eleditorplatense.com-live-2F81F7?style=flat-square&labelColor=0D1117)](https://eleditorplatense.com)
+[![El Editor Mendoza](https://img.shields.io/badge/eleditormendoza.com.ar-live-2F81F7?style=flat-square&labelColor=0D1117)](https://eleditormendoza.com.ar)
+[![Case study](https://img.shields.io/badge/Case_study-→-8B949E?style=flat-square&labelColor=0D1117)](https://tobias-gonzalez-arriola.vercel.app/work/cms-portal)
+
+<sub><b>Next.js · Node.js · PostgreSQL · AWS (S3 + CloudFront) · Vite</b></sub>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://tobias-gonzalez-arriola.vercel.app/work/ecommerce-materiales">
+<img src="https://tobias-gonzalez-arriola.vercel.app/projects/ecommerce-portal.webp" width="100%" alt="Elementos e-commerce"/>
+</a>
+<br/><br/>
+<b>🧱 <a href="https://tobias-gonzalez-arriola.vercel.app/work/ecommerce-materiales">Elementos</a></b> — E-commerce<br/>
+<sub>Construction-materials marketplace: storefront, sellers back office, payouts and delivery-route optimisation. Microservices.</sub>
+<br/><br/>
+<sub><b>Next.js · Node.js · PostgreSQL · AWS S3</b></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://play.google.com/store/apps/details?id=com.tobiascr.braille">
+<img src="https://tobias-gonzalez-arriola.vercel.app/projects/braillearn.png" width="100%" alt="BrailLearn"/>
+</a>
+<br/><br/>
+<b>📱 <a href="https://braillearn.com">BrailLearn</a></b> — Mobile app<br/>
+<sub>Learn Braille through games. Published on Google Play.</sub>
+<br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.tobiascr.braille"><img src="https://img.shields.io/badge/Google_Play-live-34A853?style=flat-square&logo=googleplay&logoColor=white&labelColor=0D1117" alt="Google Play"/></a>
+<a href="https://braillearn.com"><img src="https://img.shields.io/badge/braillearn.com-→-8B949E?style=flat-square&labelColor=0D1117" alt="Website"/></a>
+<br/><br/>
+<sub><b>React Native · Expo · Firebase · EAS</b></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://sillar.ar">
+<img src="https://tobias-gonzalez-arriola.vercel.app/projects/sillar-editor.webp" width="100%" alt="Sillar"/>
+</a>
+<br/><br/>
+<b>🪨 <a href="https://sillar.ar">Sillar</a></b> — No-code + AI<br/>
+<sub>Build landings, stores and internal systems on a Figma-like canvas — or ask an AI agent to build them for you (MCP).</sub>
+<br/><br/>
+<a href="https://sillar.ar"><img src="https://img.shields.io/badge/sillar.ar-live-9A8B6F?style=flat-square&labelColor=0D1117" alt="sillar.ar"/></a>
+<a href="https://tobias-gonzalez-arriola.vercel.app/work/sillar"><img src="https://img.shields.io/badge/Case_study-→-8B949E?style=flat-square&labelColor=0D1117" alt="Case study"/></a>
+<br/><br/>
+<sub><b>Go · Next.js · PostgreSQL · Vercel AI SDK · MCP</b></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://minecall.online">
 <img src="https://tobias-gonzalez-arriola.vercel.app/projects/minecall-forest.webp" width="100%" alt="MineCall"/>
 </a>
 <br/><br/>
-<b><a href="https://tobias-gonzalez-arriola.vercel.app/work/minecall">MineCall</a></b><br/>
+<b>🎮 <a href="https://minecall.online">MineCall</a></b> — Virtual office<br/>
 <sub>Self-hosted virtual office in the browser: voxel 3D worlds, live presence and proximity-based audio/video.</sub>
 <br/><br/>
+<a href="https://minecall.online"><img src="https://img.shields.io/badge/minecall.online-live-2F81F7?style=flat-square&labelColor=0D1117" alt="minecall.online"/></a>
+<a href="https://tobias-gonzalez-arriola.vercel.app/work/minecall"><img src="https://img.shields.io/badge/Case_study-→-8B949E?style=flat-square&labelColor=0D1117" alt="Case study"/></a>
+<br/><br/>
 <sub><b>Go · React · Three.js · LiveKit · PostgreSQL</b></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://tobias-gonzalez-arriola.vercel.app/work/cms-portal">
-<img src="https://tobias-gonzalez-arriola.vercel.app/projects/cms-portal-home.webp" width="100%" alt="CMS & News Portal"/>
-</a>
-<br/><br/>
-<b><a href="https://tobias-gonzalez-arriola.vercel.app/work/cms-portal">CMS & News Portal</a></b><br/>
-<sub>Custom multi-tenant headless CMS and news portal — in production with several newspapers. Drag-and-drop editor, heavy SEO focus.</sub>
-<br/><br/>
-<sub><b>Next.js · Node.js · PostgreSQL · AWS</b></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://tobias-gonzalez-arriola.vercel.app/work/multibot">
-<img src="https://tobias-gonzalez-arriola.vercel.app/projects/multibot.webp" width="100%" alt="MultiBot"/>
-</a>
-<br/><br/>
-<b><a href="https://tobias-gonzalez-arriola.vercel.app/work/multibot">MultiBot</a></b><br/>
-<sub>AI assistant + CRM: chat with an agent that creates and queries your data via tool-use, across three providers.</sub>
-<br/><br/>
-<sub><b>Node.js · Claude / OpenAI / Gemini · React Native</b></sub>
 </td>
 </tr>
 </table>
 
 **Also:**
-[**BrailLearn**](https://play.google.com/store/apps/details?id=com.tobiascr.braille) — learn Braille through games, live on Google Play ·
+[**MultiBot**](https://tobias-gonzalez-arriola.vercel.app/work/multibot) — AI assistant + CRM with tool-use across Claude, OpenAI and Gemini ·
 [**Catálogo Digital**](https://tobias-gonzalez-arriola.vercel.app/work/catalogo-digital) — offline-first B2B catalog & POS, multi-tenant (web + Android) ·
-[**Copado**](https://tobias-gonzalez-arriola.vercel.app/work/copado) — loyalty platform with tournaments and QR redemptions ·
-[**Elementos**](https://tobias-gonzalez-arriola.vercel.app/work/elementos) — construction-materials marketplace with delivery-route optimisation
+[**Copado**](https://tobias-gonzalez-arriola.vercel.app/work/copado) — loyalty platform with tournaments and QR redemptions
 
 <sub>Full case studies at **[my portfolio](https://tobias-gonzalez-arriola.vercel.app/)** — most of the code lives in private and client repositories.</sub>
 
