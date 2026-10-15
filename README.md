@@ -15,7 +15,7 @@
 
 <br/>
 
-3+ years building cross-platform apps end to end — from architecture to deployment.
+4+ years building cross-platform apps end to end — from architecture to deployment.
 Currently running a multi-tenant **CMS in production** for two newspapers, building a
 **no-code platform with AI agents** and **real-time / WebRTC** apps. Open to freelance and remote work.
 
